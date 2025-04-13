@@ -1,0 +1,301 @@
+Date,CustomerID,Region,SatisfactionScore,FeedbackCategory
+2023-01-03,1025,North,2,Product Quality
+2023-01-03,1096,North,4,Service
+2023-01-05,1016,East,1,Support
+2023-01-07,1054,East,1,Pricing
+2023-01-08,1056,South,4,Service
+2023-01-08,1085,North,1,Service
+2023-01-10,1023,East,2,Pricing
+2023-01-10,1011,South,2,Pricing
+2023-01-11,1084,South,5,Product Quality
+2023-01-12,1003,South,4,Service
+2023-01-13,1014,North,4,Pricing
+2023-01-14,1097,West,5,Support
+2023-01-14,1017,East,1,Service
+2023-01-17,1004,South,4,Pricing
+2023-01-17,1009,West,5,Service
+2023-01-18,1097,North,5,Pricing
+2023-01-19,1014,North,3,Product Quality
+2023-01-20,1084,East,4,Support
+2023-01-21,1083,West,3,Pricing
+2023-01-22,1085,East,5,Support
+2023-01-23,1084,South,2,Pricing
+2023-01-25,1008,West,5,Service
+2023-01-25,1074,North,1,Product Quality
+2023-01-25,1069,West,4,Service
+2023-01-28,1072,East,4,Pricing
+2023-01-29,1059,West,4,Product Quality
+2023-01-29,1034,North,1,Service
+2023-01-30,1078,East,1,Pricing
+2023-01-31,1025,East,5,Service
+2023-02-01,1042,South,3,Pricing
+2023-02-03,1050,North,1,Product Quality
+2023-02-07,1049,South,3,Product Quality
+2023-02-08,1085,East,3,Product Quality
+2023-02-09,1062,West,1,Product Quality
+2023-02-11,1048,North,4,Support
+2023-02-11,1036,South,5,Support
+2023-02-12,1054,East,1,Pricing
+2023-02-12,1045,East,5,Product Quality
+2023-02-13,1048,West,2,Support
+2023-02-17,1038,South,5,Product Quality
+2023-02-18,1019,West,4,Service
+2023-02-19,1098,South,1,Service
+2023-02-20,1044,East,3,Pricing
+2023-02-21,1018,North,4,Product Quality
+2023-02-25,1079,East,2,Product Quality
+2023-03-01,1003,West,2,Support
+2023-03-01,1056,North,2,Pricing
+2023-03-03,1099,South,2,Pricing
+2023-03-03,1056,West,3,Service
+2023-03-04,1018,West,5,Pricing
+2023-03-06,1090,East,1,Pricing
+2023-03-07,1020,East,3,Product Quality
+2023-03-09,1082,West,3,Support
+2023-03-10,1029,East,3,Support
+2023-03-13,1024,West,3,Product Quality
+2023-03-14,1088,East,1,Product Quality
+2023-03-19,1047,West,2,Product Quality
+2023-03-20,1023,East,3,Support
+2023-03-20,1055,South,1,Pricing
+2023-03-20,1069,South,3,Support
+2023-03-21,1018,West,5,Pricing
+2023-03-23,1045,South,2,Service
+2023-03-24,1057,North,3,Support
+2023-03-27,1091,North,1,Support
+2023-03-27,1097,East,4,Product Quality
+2023-03-28,1023,North,2,Service
+2023-03-28,1034,South,3,Product Quality
+2023-03-29,1062,North,5,Pricing
+2023-04-02,1096,West,5,Pricing
+2023-04-02,1023,West,4,Support
+2023-04-05,1063,North,1,Pricing
+2023-04-05,1011,West,1,Support
+2023-04-06,1009,South,3,Pricing
+2023-04-07,1000,East,2,Support
+2023-04-07,1059,West,3,Pricing
+2023-04-09,1054,West,3,Product Quality
+2023-04-11,1021,East,5,Pricing
+2023-04-11,1029,West,1,Pricing
+2023-04-13,1048,East,4,Pricing
+2023-04-14,1041,South,3,Pricing
+2023-04-15,1073,West,1,Service
+2023-04-15,1070,North,4,Support
+2023-04-18,1091,East,4,Support
+2023-04-19,1091,West,5,Support
+2023-04-20,1013,North,4,Pricing
+2023-04-21,1032,East,3,Service
+2023-04-21,1057,South,4,Pricing
+2023-04-22,1041,West,2,Support
+2023-04-23,1020,West,4,Product Quality
+2023-04-23,1027,West,2,Pricing
+2023-04-24,1032,East,5,Service
+2023-04-26,1047,West,5,Pricing
+2023-04-27,1093,East,1,Pricing
+2023-04-27,1094,East,4,Product Quality
+2023-04-28,1085,West,5,Support
+2023-04-29,1038,South,2,Service
+2023-04-29,1025,East,5,Support
+2023-04-30,1099,North,2,Pricing
+2023-05-02,1057,West,3,Service
+2023-05-04,1085,South,2,Service
+2023-05-04,1030,South,4,Support
+2023-05-06,1097,East,5,Product Quality
+2023-05-08,1026,East,4,Pricing
+2023-05-08,1019,West,5,Pricing
+2023-05-09,1069,North,3,Pricing
+2023-05-09,1002,West,5,Support
+2023-05-10,1089,East,1,Product Quality
+2023-05-10,1092,North,2,Support
+2023-05-10,1090,East,2,Support
+2023-05-10,1059,South,4,Pricing
+2023-05-13,1046,East,5,Service
+2023-05-13,1079,East,5,Product Quality
+2023-05-15,1004,North,2,Support
+2023-05-16,1027,North,3,Service
+2023-05-16,1014,North,3,Product Quality
+2023-05-18,1067,East,2,Support
+2023-05-18,1019,South,5,Pricing
+2023-05-19,1069,North,3,Pricing
+2023-05-20,1081,North,2,Pricing
+2023-05-21,1015,East,5,Pricing
+2023-05-21,1098,South,1,Service
+2023-05-24,1065,West,5,Product Quality
+2023-05-26,1053,North,4,Service
+2023-05-28,1015,East,1,Product Quality
+2023-05-29,1069,South,2,Support
+2023-05-29,1069,East,5,Pricing
+2023-05-29,1057,South,3,Service
+2023-05-29,1003,South,3,Pricing
+2023-05-29,1003,South,4,Pricing
+2023-05-30,1015,North,1,Product Quality
+2023-05-31,1044,West,2,Product Quality
+2023-05-31,1001,West,4,Product Quality
+2023-06-01,1013,West,2,Pricing
+2023-06-02,1049,South,4,Pricing
+2023-06-04,1054,East,1,Support
+2023-06-05,1033,South,1,Product Quality
+2023-06-09,1073,East,4,Product Quality
+2023-06-09,1015,South,5,Pricing
+2023-06-09,1036,East,3,Pricing
+2023-06-12,1009,North,4,Support
+2023-06-13,1068,East,1,Support
+2023-06-13,1020,East,5,Support
+2023-06-13,1053,West,5,Service
+2023-06-18,1020,East,5,Support
+2023-06-20,1031,North,5,Support
+2023-06-21,1060,West,3,Service
+2023-06-22,1089,South,4,Pricing
+2023-06-22,1057,South,2,Product Quality
+2023-06-22,1084,East,5,Support
+2023-06-23,1097,North,4,Service
+2023-06-27,1002,West,5,Pricing
+2023-06-27,1063,South,2,Pricing
+2023-06-30,1089,East,3,Pricing
+2023-06-30,1074,West,5,Product Quality
+2023-07-02,1074,North,3,Service
+2023-07-02,1032,West,1,Service
+2023-07-02,1076,South,5,Product Quality
+2023-07-03,1019,West,3,Product Quality
+2023-07-05,1062,East,4,Service
+2023-07-07,1060,West,5,Product Quality
+2023-07-08,1006,South,3,Pricing
+2023-07-09,1013,West,1,Product Quality
+2023-07-09,1029,South,1,Support
+2023-07-10,1044,South,1,Support
+2023-07-10,1067,West,2,Product Quality
+2023-07-10,1009,West,2,Support
+2023-07-11,1063,South,1,Product Quality
+2023-07-15,1080,West,5,Product Quality
+2023-07-19,1006,South,3,Pricing
+2023-07-19,1083,West,4,Service
+2023-07-22,1045,West,3,Service
+2023-07-22,1065,East,4,Support
+2023-07-25,1026,East,5,Product Quality
+2023-07-30,1043,West,2,Product Quality
+2023-08-01,1069,West,3,Service
+2023-08-01,1077,North,5,Pricing
+2023-08-01,1023,East,3,Product Quality
+2023-08-01,1058,South,5,Pricing
+2023-08-02,1030,North,3,Service
+2023-08-05,1041,North,4,Product Quality
+2023-08-07,1044,North,1,Service
+2023-08-08,1090,East,4,Service
+2023-08-09,1063,South,2,Service
+2023-08-09,1029,North,3,Pricing
+2023-08-10,1040,South,3,Service
+2023-08-11,1069,East,1,Pricing
+2023-08-12,1098,South,5,Support
+2023-08-12,1056,North,3,Support
+2023-08-14,1088,South,1,Support
+2023-08-15,1068,West,1,Support
+2023-08-16,1076,West,5,Product Quality
+2023-08-17,1039,South,3,Service
+2023-08-17,1062,North,1,Support
+2023-08-18,1016,South,3,Support
+2023-08-19,1099,North,1,Pricing
+2023-08-20,1069,East,5,Pricing
+2023-08-20,1025,East,4,Support
+2023-08-20,1094,North,1,Support
+2023-08-21,1016,West,3,Service
+2023-08-21,1092,West,4,Product Quality
+2023-08-23,1050,East,1,Support
+2023-08-24,1021,West,5,Support
+2023-08-26,1084,East,5,Support
+2023-08-26,1019,East,2,Service
+2023-08-30,1046,North,4,Service
+2023-08-30,1056,South,3,Product Quality
+2023-09-03,1032,West,5,Service
+2023-09-04,1059,West,1,Service
+2023-09-09,1030,North,1,Pricing
+2023-09-09,1034,South,2,Product Quality
+2023-09-10,1085,South,4,Support
+2023-09-10,1087,West,4,Pricing
+2023-09-11,1003,West,3,Service
+2023-09-12,1056,North,1,Product Quality
+2023-09-13,1040,East,5,Service
+2023-09-13,1093,East,3,Service
+2023-09-13,1002,East,2,Service
+2023-09-13,1081,North,2,Support
+2023-09-13,1073,South,2,Product Quality
+2023-09-15,1037,East,5,Product Quality
+2023-09-15,1002,East,2,Support
+2023-09-17,1018,South,5,Service
+2023-09-17,1059,East,3,Support
+2023-09-18,1043,North,3,Product Quality
+2023-09-18,1099,West,5,Support
+2023-09-18,1055,East,1,Pricing
+2023-09-20,1081,East,5,Pricing
+2023-09-21,1056,North,4,Pricing
+2023-09-23,1036,East,4,Product Quality
+2023-09-23,1012,East,4,Pricing
+2023-09-23,1070,West,1,Support
+2023-09-24,1013,West,1,Product Quality
+2023-09-25,1048,South,2,Pricing
+2023-09-26,1039,East,1,Pricing
+2023-09-26,1086,East,4,Product Quality
+2023-09-27,1080,North,5,Product Quality
+2023-09-28,1060,West,4,Pricing
+2023-09-30,1082,North,5,Service
+2023-09-30,1040,North,4,Product Quality
+2023-10-03,1065,North,5,Pricing
+2023-10-04,1040,North,2,Service
+2023-10-04,1053,South,1,Product Quality
+2023-10-05,1080,South,3,Service
+2023-10-05,1063,West,5,Product Quality
+2023-10-08,1013,North,5,Service
+2023-10-08,1035,West,3,Support
+2023-10-09,1069,West,3,Pricing
+2023-10-10,1009,West,5,Support
+2023-10-11,1053,East,2,Support
+2023-10-12,1087,West,4,Support
+2023-10-14,1019,North,3,Support
+2023-10-15,1003,West,5,Product Quality
+2023-10-15,1018,West,1,Product Quality
+2023-10-15,1048,South,3,Pricing
+2023-10-15,1060,North,5,Service
+2023-10-16,1057,West,5,Service
+2023-10-17,1059,South,1,Service
+2023-10-19,1087,South,4,Pricing
+2023-10-22,1085,North,5,Service
+2023-10-29,1064,East,2,Product Quality
+2023-11-04,1057,North,4,Product Quality
+2023-11-04,1075,East,1,Product Quality
+2023-11-04,1049,North,4,Product Quality
+2023-11-06,1089,West,1,Service
+2023-11-06,1052,West,1,Pricing
+2023-11-10,1088,West,4,Support
+2023-11-10,1099,South,3,Pricing
+2023-11-10,1046,North,5,Product Quality
+2023-11-11,1067,East,1,Service
+2023-11-12,1020,East,4,Product Quality
+2023-11-16,1020,North,4,Service
+2023-11-16,1005,North,1,Product Quality
+2023-11-17,1077,West,1,Pricing
+2023-11-20,1014,West,1,Product Quality
+2023-11-25,1074,South,1,Support
+2023-11-25,1023,South,2,Service
+2023-11-29,1091,West,4,Support
+2023-11-30,1070,East,5,Pricing
+2023-11-30,1036,West,3,Support
+2023-12-02,1033,North,3,Support
+2023-12-03,1006,North,4,Pricing
+2023-12-04,1008,South,5,Service
+2023-12-09,1088,South,5,Support
+2023-12-10,1035,East,2,Service
+2023-12-11,1003,West,1,Support
+2023-12-11,1038,West,5,Product Quality
+2023-12-13,1068,South,4,Pricing
+2023-12-13,1045,South,3,Service
+2023-12-14,1075,North,3,Service
+2023-12-15,1037,South,4,Support
+2023-12-16,1083,East,5,Product Quality
+2023-12-17,1087,East,3,Support
+2023-12-18,1081,West,2,Support
+2023-12-19,1020,North,3,Pricing
+2023-12-25,1023,North,1,Service
+2023-12-26,1031,North,3,Product Quality
+2023-12-26,1073,South,5,Product Quality
+2023-12-28,1025,West,1,Product Quality
+2023-12-28,1038,West,3,Support
+2023-12-30,1071,South,2,Product Quality
